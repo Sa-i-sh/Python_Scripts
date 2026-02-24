@@ -1,0 +1,77 @@
+[10:00 AM] – Arjun (Project Lead):
+Alright team, let’s begin. We need to close the pending items from last sprint and lock priorities for this week. The investor review is scheduled for March 5th, so we have a hard deadline.
+
+[10:01 AM] – Meera (ML Engineer):
+For the zoning prediction model, I’ve completed data preprocessing. I still need to retrain the model with the updated dataset. I’ll finish retraining by tomorrow night.
+
+[10:02 AM] – Arjun:
+Good. Please make sure the evaluation metrics are documented properly. We’ll need those for the presentation.
+
+[10:03 AM] – Rohan (Backend Developer):
+The API for simulation results is ready, but I need the final model endpoint from Meera before I can deploy it to staging.
+
+[10:04 AM] – Meera:
+I’ll share the endpoint details once retraining is done. Let’s say by Wednesday afternoon.
+
+[10:05 AM] – Kavya (Frontend Developer):
+Once the staging API is live, I’ll integrate the simulation dashboard. I should be able to complete that within two days after deployment.
+
+[10:06 AM] – Arjun:
+Okay. Kavya, coordinate with Rohan to avoid version mismatch issues.
+
+[10:07 AM] – Rohan:
+Yes, I’ll deploy to staging by Thursday morning, provided I receive the model endpoint on time.
+
+[10:08 AM] – Sana (QA Engineer):
+Do we want regression testing before the investor demo?
+
+[10:09 AM] – Arjun:
+Absolutely. Sana, please prepare a regression test checklist by Friday. We’ll run full testing over the weekend.
+
+[10:10 AM] – Sana:
+Got it. I’ll also review edge cases in the land allocation module.
+
+[10:11 AM] – Meera:
+We still have an issue with missing satellite data for two regions. I need to follow up with the data vendor.
+
+[10:12 AM] – Arjun:
+Please reach out to them today and update us by tomorrow. That’s critical.
+
+[10:13 AM] – Kavya:
+Also, the UI for map overlays needs improvement. I plan to redesign the layer controls. I’ll share updated mockups by end of day Wednesday.
+
+[10:14 AM] – Arjun:
+Perfect. Make sure it aligns with our existing theme guidelines.
+
+[10:15 AM] – Rohan:
+We should also optimize database queries. Response time is slightly high under load.
+
+[10:16 AM] – Arjun:
+Can you take ownership of that?
+
+[10:16 AM] – Rohan:
+Yes, I’ll analyze the slow queries and implement indexing where needed. I’ll submit an update by Friday evening.
+
+[10:17 AM] – Sana:
+Should I include load testing in this sprint?
+
+[10:18 AM] – Arjun:
+Yes, schedule basic load testing for Monday. We’ll review results in the next sync.
+
+[10:19 AM] – Meera:
+Reminder, we need final slide content for the investor deck.
+
+[10:20 AM] – Arjun:
+Right. Everyone, please send your module summaries by Saturday noon. I’ll compile the deck on Sunday.
+
+[10:21 AM] – Kavya:
+Noted.
+
+[10:21 AM] – Rohan:
+Works for me.
+
+[10:22 AM] – Sana:
+All clear.
+
+[10:23 AM] – Arjun:
+Great. Update your task status in the tracker by tonight. Let’s do a quick follow-up on Thursday at 5 PM. Meeting adjourned.

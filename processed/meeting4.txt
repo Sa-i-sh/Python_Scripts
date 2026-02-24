@@ -1,0 +1,68 @@
+[11:00 AM] – Riya (Operations Lead):
+Let’s get started. Main agenda today is Firebase integration, payment gateway setup, and release readiness. The internal demo is scheduled for March 12th.
+
+[11:01 AM] – Dev (Backend):
+Firebase auth is working in dev, but I still need to configure production keys. I’ll handle that today and confirm once done.
+
+[11:02 AM] – Riya:
+Please prioritize that. We cannot test payments without proper authentication.
+
+[11:03 AM] – Aman (Mobile Dev):
+On the Android side, Google login works, but email login occasionally fails. I need to debug that. Should be able to resolve it by tomorrow evening.
+
+[11:04 AM] – Riya:
+Okay. Once fixed, inform QA immediately.
+
+[11:05 AM] – Nisha (QA):
+Yes, I’m waiting on stable builds. I’ll start end to end testing as soon as I receive confirmation.
+
+[11:06 AM] – Dev:
+About payments, Razorpay integration is partially done. I still need webhook validation logic.
+
+[11:07 AM] – Riya:
+When can that be completed?
+
+[11:07 AM] – Dev:
+If nothing blocks me, I’ll finish it by Friday afternoon.
+
+[11:08 AM] – Aman:
+We also need to update the privacy policy screen before release.
+
+[11:09 AM] – Riya:
+Right. Aman, please coordinate with the legal team and get the final content. Let’s not delay that.
+
+[11:10 AM] – Aman:
+I’ll reach out to them today and follow up tomorrow if needed.
+
+[11:11 AM] – Nisha:
+There’s a pending issue with push notifications not triggering consistently.
+
+[11:12 AM] – Dev:
+That might be due to incorrect topic subscription. I’ll review the configuration and share an update by end of day.
+
+[11:13 AM] – Riya:
+Good. Also, everyone make sure to update Jira before logging off today.
+
+[11:14 AM] – Aman:
+Should we prepare release notes this week?
+
+[11:15 AM] – Riya:
+Yes. Draft the release notes by Monday. We’ll review and finalize on Tuesday.
+
+[11:16 AM] – Dev:
+Do we want monitoring alerts configured before demo?
+
+[11:17 AM] – Riya:
+Definitely. Set up basic crash alerts and email notifications. Complete that before the 10th.
+
+[11:18 AM] – Nisha:
+I’ll prepare a checklist for demo readiness and circulate it by Friday.
+
+[11:19 AM] – Riya:
+Perfect. Let’s have a quick follow up on Thursday at 3 PM to track progress.
+
+[11:20 AM] – All:
+Sounds good.
+
+[11:21 AM] – Riya:
+Alright, thanks everyone. Please ensure all blockers are communicated early. Meeting closed.

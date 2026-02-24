@@ -1,0 +1,20 @@
+{
+    "generated_at": "2026-02-24T13:31:19.974071",
+    "summary_points": [
+        "[11:00AM]\u2013Riya(OperationsLead):Let\u2019sgetstarted.MainagendatodayisFirebaseintegration,paymentgatewaysetup,andreleasereadiness.TheinternaldemoisscheduledforMarch12th.[11:01AM]\u2013Dev(Backend):Firebaseauthisworkingindev,butIstillneedtoconfigureproductionkeys.I\u2019llhandlethattodayandconfirmoncedone.[11:02AM]\u2013Pleaseprioritizethat.Wecannottestpaymentswithoutproperauthentication.[11:03AM]\u2013Aman(MobileDev):OntheAndroidside,Googleloginworks,butemailloginoccasionallyfails.Ineedtodebugthat.Shouldbeabletoresolveitbytomorrowevening.[11:04AM]\u2013Okay.Oncefixed,informQAimmediately.[11:05AM]\u2013Nisha(QA):Yes,I\u2019mwaitingonstablebuilds.I\u2019llstartendtoendtestingassoonasIreceiveconfirmation.[11:06AM]\u2013Aboutpayments,Razorpayintegrationispartiallydone.Istillneedwebhookvalidationlogic.[11:07AM]\u2013Whencanthatbecompleted?[11:07AM]\u2013Ifnothingblocksme,I\u2019llfinishitbyFridayafternoon.[11:08AM]\u2013Wealsoneedtoupdatetheprivacypolicyscreenbeforerelease.[11:09AM]\u2013Right.Aman,pleasecoordinatewiththelegalteamandgetthefinalcontent.Let\u2019snotdelaythat.[11:10AM]\u2013I\u2019llreachouttothemtodayandfollowuptomorrowifneeded.[11:11AM]\u2013There\u2019sapendingissuewithpushnotificationsnottriggeringconsistently.[11:12AM]\u2013Thatmightbeduetoincorrecttopicsubscription.I\u2019llreviewtheconfigurationandshareanupdatebyendofday.[11:13AM]\u2013Good.Also,everyonemakesuretoupdateJirabeforeloggingofftoday.[11:14AM]\u2013Shouldwepreparereleasenotesthisweek?[11:15AM]\u2013Yes.DraftthereleasenotesbyMonday.We\u2019llreviewandfinalizeonTuesday.[11:16AM]\u2013Dowewantmonitoringalertsconfiguredbeforedemo?[11:17AM]\u2013Definitely.Setupbasiccrashalertsandemailnotifications.Completethatbeforethe10th.[11:18AM]\u2013I\u2019llprepareachecklistfordemoreadinessandcirculateitbyFriday.[11:19AM]\u2013Perfect.Let\u2019shaveaquickfollowuponThursdayat3PMtotrackprogress.[11:20AM]\u2013Soundsgood.",
+        "[11:21AM]\u2013Alright,thankseveryone.Pleaseensureallblockersarecommunicatedearly.Meetingclosed."
+    ],
+    "actions_list": [
+        "TheinternaldemoisscheduledforMarch12th.[11:01AM]\u2013Dev(Backend):Firebaseauthisworkingindev,butIstillneedtoconfigureproductionkeys.I\u2019llhandlethattodayandconfirmoncedone.[11:02AM]\u2013Pleaseprioritizethat.",
+        "Shouldbeabletoresolveitbytomorrowevening.[11:04AM]\u2013Okay.",
+        "Oncefixed,informQAimmediately.[11:05AM]\u2013Nisha(QA):Yes,I\u2019mwaitingonstablebuilds.I\u2019llstartendtoendtestingassoonasIreceiveconfirmation.[11:06AM]\u2013Aboutpayments,Razorpayintegrationispartiallydone.",
+        "Istillneedwebhookvalidationlogic.[11:07AM]\u2013Whencanthatbecompleted?[11:07AM]\u2013Ifnothingblocksme,I\u2019llfinishitbyFridayafternoon.[11:08AM]\u2013Wealsoneedtoupdatetheprivacypolicyscreenbeforerelease.[11:09AM]\u2013Right.",
+        "Aman,pleasecoordinatewiththelegalteamandgetthefinalcontent.",
+        "Let\u2019snotdelaythat.[11:10AM]\u2013I\u2019llreachouttothemtodayandfollowuptomorrowifneeded.[11:11AM]\u2013There\u2019sapendingissuewithpushnotificationsnottriggeringconsistently.[11:12AM]\u2013Thatmightbeduetoincorrecttopicsubscription.",
+        "I\u2019llreviewtheconfigurationandshareanupdatebyendofday.[11:13AM]\u2013Good.",
+        "Also,everyonemakesuretoupdateJirabeforeloggingofftoday.[11:14AM]\u2013Shouldwepreparereleasenotesthisweek?[11:15AM]\u2013Yes.",
+        "We\u2019llreviewandfinalizeonTuesday.[11:16AM]\u2013Dowewantmonitoringalertsconfiguredbeforedemo?[11:17AM]\u2013Definitely.",
+        "Completethatbeforethe10th.[11:18AM]\u2013I\u2019llprepareachecklistfordemoreadinessandcirculateitbyFriday.[11:19AM]\u2013Perfect.",
+        "Pleaseensureallblockersarecommunicatedearly."
+    ]
+}

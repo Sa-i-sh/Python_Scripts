@@ -1,0 +1,68 @@
+[2:00 PM] – Neha (Product Manager):
+Okay team, thanks for joining. We need to finalize the search feature improvements. The beta release is planned for March 10th, so timelines are tight.
+
+[2:01 PM] – Aditya (Frontend Dev):
+Right now, search works, but it’s pretty basic. I’m planning to add debounce and filtering by genre. I can complete that by Thursday.
+
+[2:02 PM] – Neha:
+Good. Please make sure it doesn’t affect performance on slower devices.
+
+[2:03 PM] – Isha (Backend Dev):
+From backend side, I need to optimize the movie query. It’s currently doing a full text search without indexing. I’ll implement indexing and push changes by Friday evening.
+
+[2:04 PM] – Neha:
+Perfect. Coordinate with Aditya before deploying anything to production.
+
+[2:05 PM] – Rahul (QA):
+Do we want test cases for edge scenarios like empty queries or special characters?
+
+[2:06 PM] – Neha:
+Yes, absolutely. Please prepare a test plan and share it by tomorrow afternoon.
+
+[2:07 PM] – Aditya:
+Also, I think we should improve the “No Results Found” state. Maybe add suggestions?
+
+[2:08 PM] – Neha:
+That’s a good idea. Can you mock something up?
+
+[2:08 PM] – Aditya:
+Yes, I’ll design a few UI options and send them for review by Wednesday.
+
+[2:09 PM] – Isha:
+We still haven’t finalized the API rate limits. Should I configure that now?
+
+[2:10 PM] – Neha:
+Yes, go ahead and set reasonable limits. Let’s review them next week.
+
+[2:11 PM] – Rahul:
+There’s also a bug where pagination breaks after page 5. I need backend support to resolve that.
+
+[2:12 PM] – Isha:
+I’ll take a look today and try to fix it before end of day.
+
+[2:13 PM] – Neha:
+Thanks. Also, everyone please update documentation as you complete tasks. We need everything ready before beta.
+
+[2:14 PM] – Aditya:
+Should we add a “Recently Searched” feature in this sprint?
+
+[2:15 PM] – Neha:
+Let’s not commit yet. Prepare a quick feasibility note and we’ll decide in the next meeting.
+
+[2:16 PM] – Rahul:
+I’ll start regression testing once the search updates are deployed.
+
+[2:17 PM] – Neha:
+Good. Let’s aim to freeze new changes by March 8th.
+
+[2:18 PM] – Isha:
+I’ll also monitor server logs after deployment to ensure stability.
+
+[2:19 PM] – Neha:
+Perfect. Reminder: send daily progress updates on Slack before 7 PM.
+
+[2:20 PM] – All:
+Agreed.
+
+[2:21 PM] – Neha:
+Alright, thanks everyone. Let’s reconvene on Friday for a quick status check.
