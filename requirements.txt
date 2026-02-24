@@ -1,0 +1,9 @@
+os - file handling
+re - transcript cleaning(re - regular expression)
+json - structured output
+nltk - sentence tokenization 
+spacy - NLP for action detection
+datetime - time stamping
+time - pause the execution 
+shutil - heavy duty file handling (copy folder, archive file, delete folder reccursively)
+watchdog - watch for changes in folder 

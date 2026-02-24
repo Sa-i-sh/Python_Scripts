@@ -1,0 +1,37 @@
+Rahul: Alright everyone, let’s get started. We need to finalize the login module this week. The client wants a demo by next Monday.
+
+Ananya: The UI for login and signup is mostly done. I just need to connect it to the API. Vivek, can you share the updated authentication endpoints?
+
+Vivek: Yes, I’ll send the API documentation by today evening. The JWT implementation is complete, but I still need to fix the token refresh logic.
+
+Rahul: Please make sure that’s resolved before Friday. We can’t afford authentication failures during the demo.
+
+Priya: Once the API is stable, I’ll start writing test cases. I should be able to complete basic testing by Saturday.
+
+Karan: I plan to update the onboarding screens. The current design doesn’t align with the new branding. I’ll share revised mockups by tomorrow afternoon.
+
+Rahul: Good. Ananya, after you integrate the login API, coordinate with Priya for testing.
+
+Ananya: Sure. I’ll push the frontend changes to the dev branch by Thursday.
+
+Vivek: Also, we need to decide on password reset flow. Should I implement OTP-based verification?
+
+Rahul: Yes, go ahead with OTP. Please complete that by end of day Friday.
+
+Priya: Do we have a deadline for performance testing?
+
+Rahul: Let’s schedule that for next week. Remind me on Monday to allocate time for it.
+
+Karan: I’ll also review the dashboard layout. It needs better spacing and clearer CTAs.
+
+Rahul: Noted. Please submit the updated design files before the client demo.
+
+Vivek: One more thing, we have a pending issue with Firebase integration. I’ll check with the DevOps team and get back to you.
+
+Rahul: Perfect. Everyone, update your task status in Jira by tonight. We’ll do a quick follow-up meeting on Friday at 4 PM.
+
+Ananya: Got it.
+
+Priya: Sounds good.
+
+Karan: All set.
